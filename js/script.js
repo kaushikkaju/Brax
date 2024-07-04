@@ -3,7 +3,7 @@ const colorSection = document.querySelector('.color_sec');
 const colorCloseButton = document.querySelector('.color_sec-close');
 const colorSelectButton = document.getElementById('color_select');
 const colorButtons = document.querySelectorAll('.color_sec span');
-const bannerButtons = document.querySelectorAll('.main_container .btn,.iconList .list i');
+const bannerButtons = document.querySelectorAll('.main_container .btn,.selection_btns .btn,.iconList .list i');
 
 
 //Refresh the local storage
